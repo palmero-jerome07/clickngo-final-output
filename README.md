@@ -38,9 +38,7 @@ ClickNGo aims to provide a simple, interactive shopping experience through the t
    java ClickNGo
 
 🙋‍♂️ Author
-This project was developed by Jerome Palmero and Blockmates
 - 📧 jeromepalmero7@gmail.com
-- 🎓 2nd Year IT Student
 
 📜 License
 - This project is for educational purposes and is open for use and modification.
