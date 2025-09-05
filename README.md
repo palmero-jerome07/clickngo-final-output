@@ -1,4 +1,4 @@
-# ClickNGo: Console-Based Merchandise Kiosk System
+# ClickNGo: Console-Based Merchandise Kiosk System 
 
 **ClickNGo** is a Java-based console application designed to simulate a merchandise kiosk system typically used in concerts and events. It allows users to view products, manage a shopping cart, and checkout orders — all through a text-based interface.
 
